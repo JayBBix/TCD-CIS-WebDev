@@ -1,7 +1,9 @@
 <html>
 <body>
 <figure>
-<source srcset="file:///C:/Users/270078528/Downloads/Stegosaurus-Small%20Webp%20(1).webp" min - width
+<source srcset="file:///C:/Users/270078528/Downloads/Stegosaurus-Small%20Webp%20(1).webp" media
 <img src:"file:///C:/Users/270078528/Downloads/Stegosaurus-Small%20Webp%20(1).webp" alt="An Amazing Blue Stegasaurus">
 <figcaption> A super rare blue stegasaurus</figcaption>
-
+<source srcset="file:///C:/Users/270078528/Downloads/Stegosaurus-Small%20Webp%20(1).webp" min - width
+<img src:"file:///C:/Users/270078528/Downloads/Stegosaurus-Large%20Webp%20(1).webp" alt="An Amazing Green Stegasaurus">
+<figcaption> A super rare blue stegasaurus</figcaption>
