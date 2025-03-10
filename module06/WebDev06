@@ -2,19 +2,26 @@
 <body>
 <figure>
 <picture>
-<source srcset="Stegosaurus-Large JPG(1).jpg" media= orientation: "portrait"/>
+<source srcset="Stegosaurus-Large JPG (1).jpg" media= orientation: "portrait"/>
 <img src:"Stegosaurus-Large JPG(1).jpg" alt="An Amazing Blue Stegasaurus">
 <figcaption> A super rare blue stegasaurus</figcaption>
 </picture>
 
 <picture>
-<source srcset="Stegosaurus-Small JPG(1).jpg" media = orientation: "portrait"/>
+<source srcset="Stegosaurus-Small JPG (1).jpg" media = orientation: "portrait"/>
 <img src:"Stegosaurus-Small JPG(1).jpg" alt="An Amazing Green Stegasaurus">
 <figcaption> A super rare green stegasaurus</figcaption>
 
 <picture>
+<source srcset ="Stegosaurus-Large Webp(1).webp"
+media = orientation: "portrait"/>
+<img src:"Stegosaurus-Large Webp (1).webp" alt="An Amazing Blue Stegasaurus">
+<figcaption> A super rare blue stegasaurus</figcaption>
+</picture>
+
+<picture>
 <source srcset ="Stegosaurus-Small Webp(1).webp"
 media = orientation: "portrait"/>
-<img src:"file:///C:/Users/270078528/Downloads/Stegosaurus-Small%20Webp%20(1).webp" alt="An Amazing Blue Stegasaurus">
+<img src:"Stegosaurus-Small Webp (1).webp" alt="An Amazing Blue Stegasaurus">
 <figcaption> A super rare blue stegasaurus</figcaption>
 </picture>
