@@ -3,20 +3,20 @@
 <figure>
 <picture>
 <source srcset="Stegosaurus-Large JPG (1).jpg" media= orientation: "portrait"/>
-<img src:"Stegosaurus-Large JPG(1).jpg" alt="An Amazing Blue Stegasaurus">
-<figcaption> A super rare blue stegasaurus</figcaption>
+<img src:"Stegosaurus-Large JPG(1).jpg" alt="An Amazing Cyan Stegasaurus">
+<figcaption> A super rare cyan stegasaurus</figcaption>
 </picture>
 
 <picture>
 <source srcset="Stegosaurus-Small JPG (1).jpg" media = orientation: "portrait"/>
-<img src:"Stegosaurus-Small JPG(1).jpg" alt="An Amazing Green Stegasaurus">
-<figcaption> A super rare green stegasaurus</figcaption>
+<img src:"Stegosaurus-Small JPG(1).jpg" alt="An Amazing Pink Stegasaurus">
+<figcaption> A super rare pink stegasaurus</figcaption>
 
 <picture>
 <source srcset ="Stegosaurus-Large Webp(1).webp"
 media = orientation: "portrait"/>
-<img src:"Stegosaurus-Large Webp (1).webp" alt="An Amazing Blue Stegasaurus">
-<figcaption> A super rare blue stegasaurus</figcaption>
+<img src:"Stegosaurus-Large Webp (1).webp" alt="An Amazing Green Stegasaurus">
+<figcaption> A super rare Green stegasaurus</figcaption>
 </picture>
 
 <picture>
